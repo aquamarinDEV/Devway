@@ -199,7 +199,7 @@ const Contact = () => {
                   </svg>
                   <div>
                     <h4 className="text-lg font-medium">Location</h4>
-                    <p className="text-muted-foreground">Focsani, Vrancea, Romania </p>
+                    <p className="text-muted-foreground">Focsani, Vrancea, Romania</p>
                   </div>
                 </div>
               </div>
