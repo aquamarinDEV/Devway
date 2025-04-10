@@ -177,7 +177,7 @@ const Contact = () => {
                   </svg>
                   <div>
                     <h4 className="text-lg font-medium">Email</h4>
-                    <a href="mailto:marin.nicu99@yahoo.com" className="text-muted-foreground hover:text-primary">info@devway-services.ro
+                    <a href="mailto:info@devway-services.ro" className="text-muted-foreground hover:text-primary">info@devway-services.ro
                   </a>
                   </div>
                 </div>
