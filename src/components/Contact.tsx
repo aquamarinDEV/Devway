@@ -177,7 +177,7 @@ const Contact = () => {
                   </svg>
                   <div>
                     <h4 className="text-lg font-medium">Email</h4>
-                    <a href="mailto:marin.nicu99@yahoo.com" className="text-muted-foreground hover:text-primary">marin.nicu99@yahoo.com
+                    <a href="mailto:marin.nicu99@yahoo.com" className="text-muted-foreground hover:text-primary">info@devway-services.ro
                   </a>
                   </div>
                 </div>
@@ -199,7 +199,7 @@ const Contact = () => {
                   </svg>
                   <div>
                     <h4 className="text-lg font-medium">Location</h4>
-                    <p className="text-muted-foreground">123 Innovation Drive<br />San Francisco, CA 94103</p>
+                    <p className="text-muted-foreground">Focsani, Vrancea, Romania</p>
                   </div>
                 </div>
               </div>
