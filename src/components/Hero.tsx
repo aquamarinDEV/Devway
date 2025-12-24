@@ -129,7 +129,7 @@ const Hero = () => {
           <div className="inline-block mb-4 px-6 py-2 rounded-full bg-primary/10 border border-primary/20 backdrop-blur-sm">
             <div className="flex items-center gap-2">
               <Terminal size={16} className="text-primary" />
-              <span className="text-sm font-mono font-medium text-primary">$ powering_future = true</span>
+              <span className="text-sm font-mono font-medium text-primary">$ automation_future = true</span>
             </div>
           </div>
           
